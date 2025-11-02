@@ -4,7 +4,7 @@ A C++11 library that provides designated initializer syntax using Boost.Preproce
 
 ## Try it Online
 
-[![Try on Godbolt](https://img.shields.io/badge/try-godbolt-blue.svg)](https://godbolt.org/z/Ez1TW7G4v)
+https://godbolt.org/z/Ez1TW7G4v
 
 ## Installation
 
