@@ -1,6 +1,6 @@
 # CXX Init - Designated Initializer Library
 
-A C++11 library that provides designated initializer syntax using Boost.Preprocessor macros.
+A C++14 library that provides designated initializer
 
 ## Try it Online
 
