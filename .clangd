@@ -1,0 +1,34 @@
+CompileFlags:
+  Add:
+    - -std=c++14
+    - -Wall
+    - -Wextra
+    - -Wpedantic
+    - -I.
+  Remove:
+    - -W*
+    - -std=*
+
+Index:
+  Background: Build
+
+InlayHints:
+  Enabled: true
+  ParameterNames: true
+  DeducedTypes: true
+
+Hover:
+  ShowAKA: true
+
+Diagnostics:
+  ClangTidy:
+    Add:
+      - readability-*
+      - performance-*
+      - modernize-*
+    Remove:
+      - readability-magic-numbers
+      - modernize-use-trailing-return-type
+
+Completion:
+  AllScopes: true
