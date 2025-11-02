@@ -4,7 +4,7 @@ A C++14 library that provides designated initializer
 
 ## Try it Online
 
-https://godbolt.org/z/Ez1TW7G4v
+[https://godbolt.org/z/Ez1TW7G4v](https://godbolt.org/z/xbdvdjejd)
 
 ## Installation
 
